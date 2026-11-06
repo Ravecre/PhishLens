@@ -1,5 +1,4 @@
-# PhishLens
-
+PhishLens
 PhishLens is an open-source phishing detection and URL threat analysis tool written in Python. It is designed to identify suspicious URLs, analyze domain characteristics, inspect redirect chains, and evaluate potential security threats through an explainable risk assessment engine.
 
 Unlike traditional URL scanners that only provide a safe or malicious verdict, PhishLens focuses on transparency. Every detection is supported by technical evidence, an explanation, and a risk score, allowing users to understand why a URL may be suspicious.
